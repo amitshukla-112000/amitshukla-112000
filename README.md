@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Python Backend App for AWS CI/CD**
 
-- 🌱 I’m currently learning **Chef, Node.js**
+- 🌱 I’m currently learning **Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amitshukla-112000](https://github.com/amitshukla-112000)
 
@@ -16,8 +16,6 @@
 - 📫 How to reach me **https://www.linkedin.com/in/amit-shukla-86a871190/**
 
 - 📄 Know about my experiences [amitshukla-112000/Resume](amitshukla-112000/Resume)
-
-- ⚡ Fun fact **I Think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
